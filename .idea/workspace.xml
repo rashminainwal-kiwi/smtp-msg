@@ -62,11 +62,8 @@
       <change beforePath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../jwt_token_auth/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt_token_auth/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../project/basic/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/smtp_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smtp_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smtp_app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/smtp_app/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smtp_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/smtp_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swagger/.idea/swagger.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../swagger/api_auth/.idea/api_auth.iml" beforeDir="false" />
     </list>
@@ -76,7 +73,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
