@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SmtpValidator</title>
+</head>
+<body>
+<div class="container"><br>
+
+
+    <form action="#" method="post">
+        {% csrf_token%}
+
+         <div class="form-group">
+                <label for="host"> host : </label>
+                <input type="text" name="host" id="host" value="smtp.gmail.com">
+         </div>
+
+
+          <div class="form-group">
+                <label for="port"> Port : </label>
+                <input type="number" name="port" id="port" value="587" >
+          </div>
+
+          <div class="form-group">
+                <label for="login">  Login : </label>
+                <input type="email" name="login" id="login" value="testingkiwi63@gmail.com">
+          </div>
+
+           <div class="form-group">
+                 <label>Password : </label>
+                 <input type="text" name="password" id="password" value="rashmi@123">
+          </div>
+
+           <div class="form-group">
+                <label for="email_from"> Email From : </label>
+                <input type="email" name="email_from" id="email_from" value="testingkiwi63@gmail.com">
+           </div>
+
+           <div class="form-group">
+                <label for="email_to"> Email To : </label>
+                <input type="email" name="email_to" id="email_to" value="rashminainwal274@gmail.com">
+           </div>
+
+
+        <input type="submit" name="send" value="Send" class="btn btn-primary" autocomplete="off">
+
+    </form>
+    <br><br>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfad2950-8b5a-401c-910a-d9a238cf564d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Rashmi - Chrome.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rest jwt token/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rest_jwt_token/.idea/Rest_jwt_token.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rest_jwt_token/.idea/Rest_jwt_token.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rest_jwt_token/jwt_auth/auth_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Visual Studio Code.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Visual Studio Code.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abc/.idea/abc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abc/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/api_crud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../api_crud/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/drf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../crud_api/drf/employee/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/add_emp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/filter_emp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/index copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/remove_emp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/templates/view_all_emp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/emp_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/office_emp_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/office_emp_project/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/office_emp_project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/office_emp_project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../djangoall/New folder/office_emp_project/office_emp_project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt_token_auth/jwt_auth/account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jwt_token_auth/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../jwt_token_auth/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/basic/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/smtp_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smtp_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smtp_app/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/smtp_app/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smtp_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/smtp_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swagger/.idea/swagger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../swagger/api_auth/.idea/api_auth.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29b5hrBw4BYHrtM7Um9rqJ3Ny0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rashm/Desktop/smtp/smtp_project/manage.py&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="smtp_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\rashm\Desktop\smtp\smtp_project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfad2950-8b5a-401c-910a-d9a238cf564d" name="Changes" comment="" />
+      <created>1653369069125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653369069125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/smtp_app/views.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
