@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SmtpValidator</title>
+</head>
+<body>
+<div style="text-align: center; " class="container" ><br>
+
+
+    <form action="#" method="post">
+        {% csrf_token%}
+
+         <div class="form-group">
+                <label for="host"> host : </label>
+                <input type="text" name="host" id="host" autocomplete="off">
+         </div>
+
+
+          <div class="form-group">
+                <label for="port"> Port : </label>
+                <input type="number" name="port" id="port" autocomplete="off">
+          </div>
+
+          <div class="form-group">
+                <label for="Use Secured Connection"> Use Secured Connection </label>
+                <input type="checkbox" id="Use Secured Connection" name="Use Secured Connection"><br>
+
+          </div>
+          <div>
+               <label for="Use authentication"> Use authentication</label>
+                <input type="checkbox" id="Use authentication" name="Use authentication">
+          </div>
+
+<!--        <script>-->
+<!--          function myFunction() {-->
+<!--            var checkBox = document.getElementById("Use Secured Connection");-->
+<!--            var checkBox = document.getElementById("Use authentication");-->
+<!--            if (checkBox.checked == true){-->
+<!--                 alert("success")-->
+<!--          } else {-->
+<!--             alert("fail")-->
+<!--          }-->
+<!--        }-->
+<!--       </script>-->
+
+          <div class="form-group">
+                <label for="login">  Login : </label>
+                <input type="email" name="login" id="login" autocomplete="off">
+          </div>
+
+           <div class="form-group">
+                 <label>Password : </label>
+                 <input type="text" name="password" id="password" autocomplete="off">
+          </div>
+
+           <div class="form-group">
+                <label for="email_from"> Email From : </label>
+                <input type="email" name="email_from" id="email_from" autocomplete="off">
+           </div>
+
+           <div class="form-group">
+                <label for="email_to"> Email To : </label>
+                <input type="email" name="email_to" id="email_to" autocomplete="off">
+           </div>
+
+
+        <input type="submit" name="send" value="Send" class="btn btn-primary" autocomplete="off">
+
+    </form>
+    <br><br>
+
+
+</div>
+
+</body>
+</html>

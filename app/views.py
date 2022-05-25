@@ -6,13 +6,15 @@ class sender(View):
     def get(self, request):
         return render(request, 'home.html')
 
-    def post(self, request):
+    def post(self, request, true=None):
         port = request.POST.get('port')
         login = request.POST.get('login')
         password = request.POST.get('password')
         email_from = request.POST.get('email_from')
         email_to = request.POST.get('email_to')
         host = request.POST.get('host')
+        # UseSecuredConnection = request.POST.get('UseSecuredConnection')
+        # Useauthentication = request.POST.get('Useauthentication')
 
         ''' Email message'''
         import smtplib
@@ -23,6 +25,8 @@ class sender(View):
         port = port
         login = login
         host = host
+        # UseSecuredConnection = UseSecuredConnection
+        # Useauthentication = Useauthentication
 
         # creates SMTP session
         s = smtplib.SMTP(host, port)
@@ -31,10 +35,14 @@ class sender(View):
         # start TLS for security
         s.starttls()
         s.ehlo()
+        #
+        # if UseSecuredConnection == true:
+        #     if Useauthentication == true:
 
         # Authentication
         s.login(sender_mail, sender_mail_pass)
-
+        # else:
+        #     return "error"
         # message to be sent
 
         subject = 'SMTP email test'
