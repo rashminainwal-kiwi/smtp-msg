@@ -4,10 +4,11 @@
 <head>
     <style>
         body{
-        background-image: url("static/wallpaper.jpg ");
+        background-image: url("static/li.jpg ");
         background-repeat : no-repeat;
         background-position: center;
          }
+
     </style>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -27,14 +28,14 @@
         {% csrf_token%}
 
          <div class="form-group">
-                <label for="host"> host : </label>
-                <input type="text" name="host" id="host" autocomplete="off" placeholder="Enter smtp host" required><br><br>
+                <label for="host"> SMTP host : </label>
+                <input type="text" name="host" id="host" autocomplete="off" autofocus placeholder="Enter smtp host" required style="width: 20%;"><br><br>
          </div>
 
 
            <div class="form-group">
                 <label for="port"> Port : </label>
-                <input type="number" name="port" id="port" autocomplete="off" placeholder="Enter port" required><br><br>
+                <input type="number" name="port" id="port" autocomplete="off" placeholder="Enter port" required style="width: 8rem;" value="25" /><br><br>
            </div>
 
            <div class="mb-3">
@@ -49,21 +50,21 @@
 
            <div class="form-group">
                 <label for="login">  Login : </label>
-                <input type="email" name="login" id="login" autocomplete="off" placeholder="Enter email address" required><br><br>
+                <input type="email" name="login" id="login" autocomplete="off" placeholder="Enter email address" required style="width: calc(20% - 24px);" /><br><br>
            </div>
 
             <div class="form-group">
                  <label>Password : </label>
-                 <input type="text" name="password" id="password" autocomplete="off" placeholder="Enter your password" required><br><br>
+                 <input type="text" name="password" id="password" autocomplete="off" placeholder="Enter your password" required style="width: calc(20% - 24px);" /><br><br>
            </div>
            <div class="form-group">
                 <label for="email_from"> Email From : </label>
-                <input type="email" name="email_from" id="email_from" autocomplete="off" placeholder="Enter a valid email address" required><br><br>
+                <input type="email" name="email_from" id="email_from" autocomplete="off" placeholder="Enter a valid email address" required style="width: 20%;" /><br><br>
            </div>
 
             <div class="form-group">
                 <label for="email_to"> Email To : </label>
-                <input type="email" name="email_to" id="email_to" autocomplete="off" placeholder="Enter receiver email address" required><br><br>
+                <input type="email" name="email_to" id="email_to" autocomplete="off" placeholder="Enter receiver email address" required style="width: 20%;" /><br><br>
            </div>
 
 
